@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.eclipse.passage.lic:ProductLine xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.passage.lic="http://www.eclipse.org/passage/lic/products/0.5.0" identifier="com.aivhub.license" name="AIVHub License Products">
+  <products identifier="com.aivhub.license" name="AIVHUB License">
+    <productVersions version="1.0.0">
+      <productVersionFeatures featureIdentifier="com.aivhub.license.type.dash" featureVersion="1.0.0" restrictionLevel="error"/>
+      <productVersionFeatures featureIdentifier="com.aivhub.license.type.ds" featureVersion="1.0.0"/>
+      <productVersionFeatures featureIdentifier="com.aivhub.license.type.report" featureVersion="1.0.0" restrictionLevel="error"/>
+    </productVersions>
+  </products>
+</org.eclipse.passage.lic:ProductLine>

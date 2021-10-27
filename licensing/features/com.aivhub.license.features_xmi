@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<features:FeatureSet xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:features="http://www.eclipse.org/passage/lic/features/2.0.0" identifier="com.aivhub.license" name="AIVHUB License Features">
+  <features identifier="com.aivhub.license.type.dash" provider="AIVHUB Ltd" name="AIVHUB Dash">
+    <featureVersions version="1.0.0"/>
+  </features>
+  <features identifier="com.aivhub.license.type.ds" provider="AIVHUB Ltd" name="AIVHUB DS">
+    <featureVersions version="1.0.0"/>
+  </features>
+  <features identifier="com.aivhub.license.type.report" provider="AIVHUB Ltd" name="AIVHUB Report">
+    <featureVersions version="1.0.0"/>
+  </features>
+</features:FeatureSet>

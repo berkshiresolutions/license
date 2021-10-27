@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.eclipse.passage.lic:UserOrigin xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.passage.lic="http://www.eclipse.org/passage/lic/users/2.0.0" identifier="com.aivhub.license" name="AIVHUB License Users">
+  <users identifier="admin" name="Admin" preferredEvaluationType="hardware" preferredEvaluationExpression="os.family=*">
+    <contact name="Admin" email="admin@examples.org"/>
+  </users>
+</org.eclipse.passage.lic:UserOrigin>

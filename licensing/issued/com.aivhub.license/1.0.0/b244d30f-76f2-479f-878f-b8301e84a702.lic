@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.eclipse.passage.lic:PersonalLicensePack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.passage.lic="http://www.eclipse.org/passage/lic/licenses/2.0.0">
+  <license identifier="b244d30f-76f2-479f-878f-b8301e84a702" issueDate="2021-10-24T11:28:27.535+0300" plan="com.aivhub.license.evaluation">
+    <product identifier="com.aivhub.license" version="1.0.0"/>
+    <valid xsi:type="org.eclipse.passage.lic:ValidityPeriodClosed" from="2021-10-24T00:00:00.000+0300" until="2022-10-24T00:00:00.000+0300"/>
+    <signature>
+      <attributes name="issuer.name" value="org.eclipse.passage.loc.operator.product"/>
+      <attributes name="issuer.version" value="2.1.0"/>
+      <attributes name="issuer.licensing_status" value="insufficient"/>
+    </signature>
+    <user identifier="admin@examples.org" name="Admin"/>
+  </license>
+  <grants identifier="b244d30f-76f2-479f-878f-b8301e84a702#0">
+    <feature identifier="com.aivhub.license.type.ds">
+      <versionMatch version="1.0.0" rule="equivalent"/>
+    </feature>
+    <valid xsi:type="org.eclipse.passage.lic:ValidityPeriodClosed" from="2021-10-24T00:00:00.000+0300" until="2022-01-24T00:00:00.000+0300"/>
+    <userAuthentication type="hardware" expression="os.family=*"/>
+  </grants>
+  <grants identifier="b244d30f-76f2-479f-878f-b8301e84a702#1">
+    <feature identifier="com.aivhub.license.type.report">
+      <versionMatch version="1.0.0" rule="equivalent"/>
+    </feature>
+    <valid xsi:type="org.eclipse.passage.lic:ValidityPeriodClosed" from="2021-10-24T00:00:00.000+0300" until="2022-01-24T00:00:00.000+0300"/>
+    <userAuthentication type="hardware" expression="os.family=*"/>
+  </grants>
+</org.eclipse.passage.lic:PersonalLicensePack>
